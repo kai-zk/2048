@@ -1,8 +1,6 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git +1
-Git +2
-stupid boss
-not this line
-55550
+python实现2048游戏
+
+2048_1.0.py 是第一版
+
+2048_oop.py 是面向对象优化版本
+
