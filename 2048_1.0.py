@@ -193,5 +193,6 @@ def main(stdscr):
 
     while state != "Exit":
         state = state_actions[state]()
-
+# wrapper会将界面变量screen(窗口对象)传递给main函数，
+# 而一旦main函数执行完毕，则自动退出该控制字符界面
 curses.wrapper(main)
